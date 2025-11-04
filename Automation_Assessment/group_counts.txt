@@ -1,0 +1,19 @@
+Group name	Number of occurrences
+86A	2
+Catering Services Team	2
+Coffee Subs & Loyalty Team	4
+Darlington Group Gms	2
+Eastend Gms	4
+Electron	2
+Gcp Team Fr	3
+Gurgaon-Shops	4
+Hillingdon West Group	2
+Huntingdon And Liz Area Gms	2
+Huntingdon Gms	2
+Jop Team Fr	1
+Okta-Global_Yoobic	2
+Okta_Fr_Local	2
+Partners In Gr	4
+Revatta_Sso	2
+Sml Group Gms	2
+Tm-Electron	2
